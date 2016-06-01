@@ -1,0 +1,6 @@
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Tarea3-universidades\Tarea3-universidades\bin\Debug\Tarea3-universidades.exe.config
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Tarea3-universidades\Tarea3-universidades\bin\Debug\Tarea3-universidades.exe
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Tarea3-universidades\Tarea3-universidades\bin\Debug\Tarea3-universidades.pdb
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Tarea3-universidades\Tarea3-universidades\obj\Debug\Tarea3-universidades.csprojResolveAssemblyReference.cache
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Tarea3-universidades\Tarea3-universidades\obj\Debug\Tarea3-universidades.exe
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Tarea3-universidades\Tarea3-universidades\obj\Debug\Tarea3-universidades.pdb
